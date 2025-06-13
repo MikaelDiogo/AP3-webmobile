@@ -70,11 +70,7 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingTop: 200,
     backgroundColor: '#DED8E1',
-    alignItems: 'center',
-
-    
-    
-    
+    alignItems: 'center'
   },
 
   textDol:{
